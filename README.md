@@ -42,14 +42,23 @@ During each epoch, the loss is computed using Mean Squared Error, and the weight
 The output from the training process, showing the loss after each epoch, is as follows:
 
 Epoch 1, Loss: 0.2522
+
 Epoch 2, Loss: 0.2547
+
 Epoch 3, Loss: 0.2600
+
 Epoch 4, Loss: 0.2717
+
 Epoch 5, Loss: 0.2977
+
 Epoch 6, Loss: 0.3480
+
 Epoch 7, Loss: 0.4107
+
 Epoch 8, Loss: 0.4629
+
 Epoch 9, Loss: 0.5056
+
 Epoch 10, Loss: 0.5372
 
 The loss decreases in the first few epochs but starts to increase toward the later epochs. This suggests that the network is having trouble minimizing the loss further, potentially due to limitations of the Hebbian learning approach, which is unsupervised and lacks the feedback mechanism of supervised learning like backpropagation.
