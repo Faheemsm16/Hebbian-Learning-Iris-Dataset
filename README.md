@@ -3,12 +3,12 @@ This project demonstrates the implementation of a Hebbian Neural Network (Hebbia
 
 ## Dataset Overview: Iris Dataset
 The Iris dataset is a well-known dataset in the machine learning community. It contains:
-### - Features:
+### Features:
 1. Sepal length
 2. Sepal width
 3. Petal length
 4. Petal width
-### - Target:
+### Target:
 1. Setosa
 2. Versicolor
 3. Virginica
